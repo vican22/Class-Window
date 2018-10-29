@@ -1,0 +1,7 @@
+C:\Users\vedra\OneDrive\Desktop\vj_02\Zadatak01\Zadatak01\bin\Debug\Zadatak01.exe.config
+C:\Users\vedra\OneDrive\Desktop\vj_02\Zadatak01\Zadatak01\bin\Debug\Zadatak01.exe
+C:\Users\vedra\OneDrive\Desktop\vj_02\Zadatak01\Zadatak01\bin\Debug\Zadatak01.pdb
+C:\Users\vedra\OneDrive\Desktop\vj_02\Zadatak01\Zadatak01\obj\Debug\Zadatak01.csprojAssemblyReference.cache
+C:\Users\vedra\OneDrive\Desktop\vj_02\Zadatak01\Zadatak01\obj\Debug\Zadatak01.csproj.CoreCompileInputs.cache
+C:\Users\vedra\OneDrive\Desktop\vj_02\Zadatak01\Zadatak01\obj\Debug\Zadatak01.exe
+C:\Users\vedra\OneDrive\Desktop\vj_02\Zadatak01\Zadatak01\obj\Debug\Zadatak01.pdb
